@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Research at Scale"
+  short_description: "Find and inspect many repos with fewer API calls"
+  default_prompt: "Use $github-research-at-scale to research GitHub projects, filter a shared candidate set, and deeply inspect only the most relevant repositories."
